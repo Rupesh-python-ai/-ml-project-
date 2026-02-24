@@ -1,1 +1,1 @@
-print("this is predict.py")
+print("this is predict")
